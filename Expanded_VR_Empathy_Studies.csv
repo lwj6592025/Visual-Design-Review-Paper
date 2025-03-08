@@ -1,0 +1,25 @@
+Study,Title,Methodology,Sample Size,Application Domain,Key Findings,VR Elements Studied,Empathy Measurement Techniques
+Slater & Sanchez-Vives (2022),Is Consciousness First in Virtual Reality?,Experimental study,N/A,VR & Presence,VR presence enhances emotional connection,"Immersion, presence",Self-report
+Estrada Villalba et al. (2021),Immersive VR and meaningful empathy,Systematic review,N/A,"Education, Healthcare, Social Justice",VR elements that enhance empathy,"Color, spatial composition",Multi-study review
+Shin (2018),Empathy and embodied experience in VR,Experimental study,45 participants,Social Justice,Higher immersion led to greater empathy,"Embodiment, interactivity",Self-report surveys
+Fraustino et al. (2018),360° video and disaster empathy,Survey-based study,210 respondents,Disaster Communication,360° videos improve attitudes toward relief efforts,"Lighting, immersion",Attitude measurement scales
+Wang et al. (2024),Robust blind image watermarking,Algorithmic evaluation,N/A,Security,Watermarking techniques in VR imagery,Image processing,Computational analysis
+Braun et al. (2022),Multi-user VR training for firefighters,Simulation-based training,40 participants,Emergency Training,Enhanced teamwork and decision-making,"Realism, spatial design",Performance metrics
+Dzardanova et al. (2023),Non-verbal cues in VR,Experimental study,50 participants,User Experience,Non-verbal cues impact emotional engagement,"Gestures, facial expressions","Eye-tracking, user feedback"
+Kim et al. (2024),Doctor-patient communication in VR,Experimental study,35 medical professionals,Healthcare,Facial expressions in VR doctors improved empathy,"Facial features, lighting",Pre/post experimental testing
+Zhao et al. (2024),GAN-based photo cartoonization in VR,Machine learning evaluation,N/A,Graphics & Visualization,Improved realism in cartoon-style VR content,"Texture, rendering techniques",Algorithm performance metrics
+Xu et al. (2024),Binocular rendering in VR,Adaptive cube-map ray marching,N/A,Graphics,Optimized rendering for immersive experiences,Rendering techniques,Performance benchmarking
+Hu et al. (2024),Multi-stitch embroidery synthesis in VR,Texture synthesis model,User study with 30 participants,Textile & Fashion,Enhanced realism for VR textile design,"Texturing, spatial realism",Perceptual rating scales
+Chen et al. (2021),Perspective-taking in VR,Behavioral study,90 participants,Bias Reduction,Perspective-taking reduces bias,Avatar realism,Implicit Association Test
+Seinfeld et al. (2018),VR for domestic violence rehabilitation,Experimental intervention,40 offenders,Rehabilitation,Perspective-taking VR increased empathy,"First-person perspective, embodiment",Behavioral change assessment
+Bennett (2023),Visual communication in mental health VR,Review,N/A,Mental Health,Symbolic imagery enhances emotional regulation,"Color, abstraction",Qualitative content analysis
+Pinilla et al. (2021),Affective visualization in VR,Systematic review,N/A,Emotion & VR,Color and spatial design shape emotional impact,"Color, spatial arrangement",Multi-study review
+Montana et al. (2020),Emotion regulation via VR,Longitudinal VR study,30 participants,Mental Health,VR improves long-term emotional control,"Symbolism, embodiment",Longitudinal self-report
+Johnston et al. (2023),VR in intimate partner violence rehabilitation,Narrative VR intervention,20 participants,Social Justice,Perspective-taking VR fosters rehabilitation,Narrative immersion,Behavioral analysis
+Chan et al. (2021),Effects of greenery in VR on stress,Psychophysiological study,35 participants,Healthcare,Green VR spaces reduce stress,Environmental realism,"Heart rate variability, skin conductance"
+Shoshani (2023),Prosocial VR games for children,Experimental study,Preschool children,Education,Prosocial VR games enhance real-life social behavior,"Game mechanics, character interaction",Observation-based analysis
+Machajdik & Hanbury (2010),Affective image classification in VR,Computational model,N/A,AI & VR,Emotional responses influenced by artistic elements,"Color, texture",Machine learning classification
+Sora-Domenjó (2022),VR for addressing social issues,Review,N/A,Social Justice,Challenges and potential of VR in advocacy,"Immersion, visual representation",Narrative analysis
+Hassan (2020),Digitality and VR as an 'empathy machine',Theoretical analysis,N/A,Media Studies,Critique of VR’s effectiveness in empathy development,"Interactivity, realism",Thematic discourse analysis
+Yadollahi et al. (2017),Sentiment and emotion mining in VR,Survey,N/A,Computational VR,Overview of AI-driven sentiment analysis in VR,Natural language processing,Review of computational models
+Moher et al. (2009),PRISMA guidelines for systematic reviews,Review,N/A,Research Methodology,Framework for transparent literature reviews,"Review process, inclusion/exclusion criteria",Systematic review methodology

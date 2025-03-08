@@ -8,7 +8,9 @@ This repository contains data and methodology related to the systematic review *
 
 Contents
 Dataset: `Expanded_VR_Empathy_Studies.csv` (Comprehensive list of reviewed studies)
+
 Methodology: `Methodology.md` (Detailed explanation of the research approach)
+
 Key Findings: `Summary_of_Key_Findings.md` (Summary of major insights from the review)
 
 Dataset Description

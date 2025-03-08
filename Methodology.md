@@ -13,6 +13,7 @@ To ensure comprehensive coverage of relevant studies, we conducted an extensive 
 
 ### Inclusion Criteria
 Studies included in this review met the following criteria:
+
 ✔️ Published between **2018–2023**
 
 ✔️ Peer-reviewed journal articles
@@ -25,6 +26,7 @@ Studies included in this review met the following criteria:
 
 ### Exclusion Criteria
 Studies were **excluded** if they:
+
 ❌ Were **conference abstracts**, short reports, or non-peer-reviewed papers
 
 ❌ Lacked specific **visual design** discussions in VR
@@ -41,6 +43,7 @@ For each study, the following data were extracted:
 
 ## Analysis Framework
 The extracted data were analyzed based on:
+
 1️⃣ **Thematic Coding** – Identifying recurring themes in VR empathy studies
 
 2️⃣ **Comparative Analysis** – Evaluating differences across application domains (e.g., healthcare vs. education)
